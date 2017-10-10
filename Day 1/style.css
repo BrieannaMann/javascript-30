@@ -54,3 +54,9 @@ h1{
   text-align: center;
   padding-top: 40px;
 }
+.hide{
+  visibility: hidden;
+}
+.show{
+  visibility: inherit;
+}
